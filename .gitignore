@@ -1,0 +1,6 @@
+build
+lib
+TAGS
+.settings
+.*.swp
+gogui*.exe
